@@ -1,5 +1,5 @@
 # Overview
-Please write down outline of porject in this part.
+Please write down outline of your porject.
 也可以寫中文。
 * 第一點
 * 第二點
@@ -32,5 +32,5 @@ Show result of your project:<br/>
 <img src="README_files/result.png" width="400" height="196" >
 
 # Reference
-[1] ref paper 1<br/>
-[2] ref paper 2<br/>
+1.  ref paper 1<br/>
+2.  ref paper 2<br/>
