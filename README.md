@@ -26,6 +26,7 @@ Descript how this code work.
 Please explain the *background theorem* of project.<br/>
 * thm 1
 * thm 2
+* thm 3
 
 # Disparity result
 Show result of your project:<br/>
