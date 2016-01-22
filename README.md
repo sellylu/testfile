@@ -30,7 +30,7 @@ Please explain the *background theorem* of project.<br/>
 
 # Disparity result
 Show result of your project:<br/>
-<img src="minions.jpg" width="400" height="196" >
+<img src="minions.jpg" >
 
 # Reference
 1.  ref paper 1<br/>
