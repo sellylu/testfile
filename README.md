@@ -19,6 +19,8 @@ return 0;
 }
 ```
 Descript how this code work.
+<li><code><font color="green">proj1.cpp</font></code>. The main file of project blabla....</li>	
+<li><code><font color="green">func.cpp</font> </code> (<font color="darkturqoise">you code this</font>).descriuption blabla.... <code>vl_hog</code>.</li>
 
 # Theory
 Please explain the *background theorem* of project.
@@ -27,7 +29,7 @@ Please explain the *background theorem* of project.
 
 # Disparity result
 Show result of your project:
-<img/>
+<img src="README_files/result.png" width="400" height="196" >
 
 # Reference
 [1] ref paper 1
