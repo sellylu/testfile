@@ -20,7 +20,7 @@ return 0;
 ```
 Descript how this code work.
 <li><code><font color="green">proj1.cpp</font></code>. The main file of project blabla....</li>	<br/>
-<li><code><font color="green">func.cpp</font> </code> (<font color="darkturqoise">you code this</font>).descriuption blabla....<br/> <code>vl_hog</code>.</li>
+<li><code><font color="green">func.cpp</font> </code> (<font color="darkturqoise">you code this</font>).descriuption blabla....<br/> 
 
 # Theory
 Please explain the *background theorem* of project.<br/>
