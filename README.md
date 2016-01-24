@@ -1,5 +1,5 @@
 # Overview
-Please write down outline of porject in this part.
+Please write down outline of your porject.
 也可以寫中文。
 * 第一點
 * 第二點
@@ -18,9 +18,10 @@ cv::waitKey(0);
 return 0;
 }
 ```
-Descript how this code work.
-<li><code><font color="green">proj1.cpp</font></code>. The main file of project blabla....</li>	<br/>
-<li><code><font color="green">func.cpp</font> </code> (<font color="darkturqoise">you code this</font>).descriuption blabla....<br/> 
+Descript how these code files work.
+<li><code><font color="green">proj1.cpp</font></code> The main file of project blabla....</li>	<br/>
+<li><code><font color="green">func1.cpp</font> </code> blabla....<br/> 
+<li><code><font color="green">func2.cpp</font> </code> blabla....<br/> 
 
 # Theory
 Please explain the *background theorem* of project.<br/>
@@ -30,8 +31,8 @@ Please explain the *background theorem* of project.<br/>
 
 # Disparity result
 Show result of your project:<br/>
-<img src="README_files/result.png" width="400" height="196" >
+<img src="minions.jpg" >
 
 # Reference
-[1] ref paper 1<br/>
-[2] ref paper 2<br/>
+1.  ref paper 1<br/>
+2.  ref paper 2<br/>
