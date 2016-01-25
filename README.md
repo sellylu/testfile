@@ -31,7 +31,7 @@ Please explain the *background theorem* of project.<br/>
 
 # Disparity result
 Show result of your project:<br/>
-<img src="minions.jpg" >
+<img src="image/minions.jpg" >
 
 # Reference
 1.  ref paper 1<br/>
