@@ -10,8 +10,13 @@
 int main(){
 
 	cv::Mat image;
-	image = cv::imread("minions.jpg");   // Read the file
+	image = cv::imread("../image/minions.jpg");   // Read the file
 	uchar *pixptr;
+	if(image.empty()){
+		std::cout << "圖片不見了QQ";
+		system ("pause");
+		return 0;
+	}
 	for(int i=0; i<image.rows; i++){
 		pixptr = image.ptr<uchar>(i);
 		for(int j=0; j<image.cols; j++){
@@ -21,7 +26,7 @@ int main(){
 			pixptr+=3;
 		}
 	}
-	cv::imwrite("./Result.png", image);
+	cv::imwrite("../image/Result.png", image);
 	cv::imshow("Traverse result", image);
     cv::waitKey(0);
 	return(0);
